@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>EE-214 Blog</title>
+        <title>EE214 Blog</title>
         <link>https://ee214.github.io/blog</link>
-        <description>EE-214 Blog</description>
-        <lastBuildDate>Sat, 05 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <description>EE214 Blog</description>
+        <lastBuildDate>Mon, 28 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Homework Problems (Day-2)]]></title>
+            <link>https://ee214.github.io/blog/2021/06/28/hw_ins</link>
+            <guid>Homework Problems (Day-2)</guid>
+            <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Video for Quartus design flow has been uploaded on the website. This video contains some extra information that will help you understand the tools better. Please go through it before starting with the homework problems.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://ee214.github.io/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Sat, 05 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[We all want life to behave as combinational block, assuming that with one correct decision everything will be okay. But instead life is like FSMs where we have to consistently take correct decisions to get the expected output. 😉]]></description>
+            <link>https://ee214.github.io/blog/2021/06/21/welcome</link>
+            <guid>Welcome</guid>
+            <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This workshop will begin from 28th June. Make sure you have access to MS Teams for this workshop. If you don't have access, please post a message via google group.]]></description>
         </item>
     </channel>
 </rss>

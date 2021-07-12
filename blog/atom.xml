@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ee214.github.io/blog</id>
-    <title>EE-214 Blog</title>
-    <updated>2021-06-05T00:00:00.000Z</updated>
+    <title>EE214 Blog</title>
+    <updated>2021-06-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ee214.github.io/blog"/>
-    <subtitle>EE-214 Blog</subtitle>
+    <subtitle>EE214 Blog</subtitle>
     <icon>https://ee214.github.io/img/iitblogo.png</icon>
     <entry>
+        <title type="html"><![CDATA[Homework Problems (Day-2)]]></title>
+        <id>Homework Problems (Day-2)</id>
+        <link href="https://ee214.github.io/blog/2021/06/28/hw_ins"/>
+        <updated>2021-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- Video for Quartus design flow has been uploaded on the website. This video contains some extra information that will help you understand the tools better. Please go through it before starting with the homework problems.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://ee214.github.io/blog/welcome"/>
-        <updated>2021-06-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We all want life to behave as combinational block, assuming that with one correct decision everything will be okay. But instead life is like FSMs where we have to consistently take correct decisions to get the expected output. 😉]]></summary>
+        <id>Welcome</id>
+        <link href="https://ee214.github.io/blog/2021/06/21/welcome"/>
+        <updated>2021-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This workshop will begin from 28th June. Make sure you have access to MS Teams for this workshop. If you don't have access, please post a message via google group.]]></summary>
     </entry>
 </feed>

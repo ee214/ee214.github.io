@@ -4,22 +4,15 @@
         <title>EE214 Blog</title>
         <link>https://ee214.github.io/blog</link>
         <description>EE214 Blog</description>
-        <lastBuildDate>Mon, 28 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Homework Problems (Day-2)]]></title>
-            <link>https://ee214.github.io/blog/2021/06/28/hw_ins</link>
-            <guid>Homework Problems (Day-2)</guid>
-            <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[- Video for Quartus design flow has been uploaded on the website. This video contains some extra information that will help you understand the tools better. Please go through it before starting with the homework problems.]]></description>
-        </item>
-        <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://ee214.github.io/blog/2021/06/21/welcome</link>
+            <link>https://ee214.github.io/blog/2021/07/12/welcome</link>
             <guid>Welcome</guid>
-            <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[This workshop will begin from 28th June. Make sure you have access to MS Teams for this workshop. If you don't have access, please post a message via google group.]]></description>
+            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to EE214 (Autumn 2021).]]></description>
         </item>
     </channel>
 </rss>

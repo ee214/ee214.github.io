@@ -2,23 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ee214.github.io/blog</id>
     <title>EE214 Blog</title>
-    <updated>2021-06-28T00:00:00.000Z</updated>
+    <updated>2021-07-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ee214.github.io/blog"/>
     <subtitle>EE214 Blog</subtitle>
     <icon>https://ee214.github.io/img/iitblogo.png</icon>
     <entry>
-        <title type="html"><![CDATA[Homework Problems (Day-2)]]></title>
-        <id>Homework Problems (Day-2)</id>
-        <link href="https://ee214.github.io/blog/2021/06/28/hw_ins"/>
-        <updated>2021-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[- Video for Quartus design flow has been uploaded on the website. This video contains some extra information that will help you understand the tools better. Please go through it before starting with the homework problems.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>Welcome</id>
-        <link href="https://ee214.github.io/blog/2021/06/21/welcome"/>
-        <updated>2021-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This workshop will begin from 28th June. Make sure you have access to MS Teams for this workshop. If you don't have access, please post a message via google group.]]></summary>
+        <link href="https://ee214.github.io/blog/2021/07/12/welcome"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to EE214 (Autumn 2021).]]></summary>
     </entry>
 </feed>

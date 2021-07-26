@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3449],{3442:function(e,t,n){"use strict";n.r(t);var r=n(3552),u=n(7294),i=(n(3575),function(e){function t(){return e.apply(this,arguments)||this}return(0,r.Z)(t,e),t.prototype.render=function(){return u.createElement("h2",null,"Hi, I am a Car!")},t}(u.Component));t.default=i}}]);

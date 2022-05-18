@@ -4,15 +4,15 @@
         <title>EE214 Blog</title>
         <link>https://ee214.github.io/blog</link>
         <description>EE214 Blog</description>
-        <lastBuildDate>Mon, 12 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://ee214.github.io/blog/2021/07/12/welcome</link>
+            <link>https://ee214.github.io/blog/2022/05/18/welcome</link>
             <guid>Welcome</guid>
-            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to EE214 (Autumn 2021).]]></description>
+            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to EE214 Summer Course.]]></description>
         </item>
     </channel>
 </rss>

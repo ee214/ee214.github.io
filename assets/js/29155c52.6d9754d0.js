@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3449],{3442:(e,s,t)=>{t.r(s),t.d(s,{default:()=>r});var n=t(7294);t(1622);class a extends n.Component{render(){return n.createElement("h2",null,"Hi, I am a Car!")}}const r=a}}]);

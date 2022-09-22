@@ -14,7 +14,7 @@
             <guid>/2022/07/31/welcome</guid>
             <pubDate>Sun, 31 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to EE214 Autumn 2022 Course.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to EE214 Autumn 2022 Course.</p><ul><li>Please watch the video resources posted on Week 1 lab materials.</li><li>For more details on language contruct of VHDL, please go through "VHDL tutorial by Peter J Ashenden" (see Week 1 lab materials)</li><li>Install Quartus, installation instructions are present under the heading "Software Installation" on this website.</li><li>To report any issues with the website, drop a mail to <a href="mailto:akhileshrao@ee.iitb.ac.in" target="_blank" rel="noopener noreferrer">akhileshrao@ee.iitb.ac.in</a></li></ul><p><a href="/overview">Link to Week 1 materials</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Welcome to EE214 Autumn 2022 Course.</p><ul><li>Please watch the video resources posted on Week 0 lab materials.</li><li>For more details on language contruct of VHDL, please go through "VHDL tutorial by Peter J Ashenden" (see Week 1 lab materials)</li><li>Install Quartus, installation instructions are present under the heading "Software Installation" on this website.</li><li>To report any issues with the website, drop a mail to <a href="mailto:akhileshrao@ee.iitb.ac.in" target="_blank" rel="noopener noreferrer">akhileshrao@ee.iitb.ac.in</a></li></ul><p><a href="/overview">Link to Week 0 materials</a></p>]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ee214.github.io/blog</id>
+    <id>https://ee215.github.io/blog</id>
     <title>EE214 Blog</title>
     <updated>2022-07-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ee214.github.io/blog"/>
+    <link rel="alternate" href="https://ee215.github.io/blog"/>
     <subtitle>EE214 Blog</subtitle>
-    <icon>https://ee214.github.io/img/iitblogo.png</icon>
+    <icon>https://ee215.github.io/img/iitblogo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>/2022/07/31/welcome</id>
-        <link href="https://ee214.github.io/blog/2022/07/31/welcome"/>
+        <link href="https://ee215.github.io/blog/2022/07/31/welcome"/>
         <updated>2022-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to EE214 Autumn 2022 Course.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to EE214 Autumn 2022 Course.</p><ul><li>Please watch the video resources posted on Week-0 lab materials.</li><li>For more details on language contruct of VHDL, please go through "VHDL tutorial by Peter J Ashenden" (see Week 1 lab materials)</li><li>Install Quartus, installation instructions are present under the heading "Software Installation" on this website.</li><li>To report any issues with the website, drop a mail to <a href="mailto:akhileshrao@ee.iitb.ac.in" target="_blank" rel="noopener noreferrer">akhileshrao@ee.iitb.ac.in</a></li></ul><p><a href="/overview">Link to Week 0 materials</a></p>]]></content>
